@@ -11,7 +11,7 @@ public class Alonglong{
         System.out.println("[3] Exit");
         System.out.println("");
         System.out.println("Enter Choice: ");
-        int choice = sc.nextInt;
+        int choice = sc.nextInt();
 
         if (choice==1){
             System.out.println("===Add Student===");
@@ -42,4 +42,5 @@ public class Alonglong{
 
 
     } 
+
 }
